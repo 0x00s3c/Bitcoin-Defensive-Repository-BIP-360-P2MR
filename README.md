@@ -31,7 +31,7 @@ Unlike traditional Bitcoin addresses, **BIP-360** utilizes a "Hidden Key" strate
 ### Installation & Build
 ```bash
 # 1. Clone the repository
-git clone https://github.com/0x00s3c/Bitcoin-Defensive-Repository-BIP-360-P2MR-.git
+git clone https://github.com/0x00s3c/Bitcoin-Defensive-Repository-BIP-360-P2MR.git
 cd Bitcoin-Defensive-Repository-BIP-360-P2MR-
 
 # 2. Build the Bitcoin-Quantum core
