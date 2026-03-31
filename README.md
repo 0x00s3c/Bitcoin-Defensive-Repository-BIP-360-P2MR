@@ -77,5 +77,3 @@ We welcome security researchers and cryptographers. If you find a vulnerability 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Would you like me to create the corresponding `README.md` for your Solana repository as well?**
